@@ -1,0 +1,9 @@
+﻿  SecondProject.cpp
+C:\Study\University\С++\SecondProject\SecondProject\SecondProject.cpp(7,32): warning C4018: '<=': signed/unsigned mismatch
+C:\Study\University\С++\SecondProject\SecondProject\SecondProject.cpp(11,36): warning C4018: '<=': signed/unsigned mismatch
+C:\Study\University\С++\SecondProject\SecondProject\SecondProject.cpp(13,44): warning C4018: '<=': signed/unsigned mismatch
+C:\Study\University\С++\SecondProject\SecondProject\SecondProject.cpp(21,32): warning C4018: '<=': signed/unsigned mismatch
+C:\Study\University\С++\SecondProject\SecondProject\SecondProject.cpp(34,32): warning C4018: '<=': signed/unsigned mismatch
+C:\Study\University\С++\SecondProject\SecondProject\SecondProject.cpp(162,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Study\University\С++\SecondProject\SecondProject\SecondProject.cpp(52): warning C4715: 'biggestAmongThree': not all control paths return a value
+  SecondProject.vcxproj -> C:\Study\University\С++\SecondProject\x64\Debug\SecondProject.exe
